@@ -504,6 +504,13 @@ hr {
 
 /* Footer */
 
+.footer_title {
+    color: #fff;
+    font-size: 20px;
+    margin-left: 50px;
+    border-top: 30px;
+}
+
 .footer {
     background-color: #5a4288;
 }
